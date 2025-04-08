@@ -11,8 +11,6 @@ authors:
     - Hennessy, J.
 ---
 
-#arm/legv8 #reference #pl/asm
-
 ## Types
 | Type          |     Description      | Format                 | Example             |
 | ------------- | :------------------: | ---------------------- | ------------------- |
