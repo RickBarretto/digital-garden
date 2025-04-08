@@ -1,16 +1,19 @@
 ---
 title: LEG v8's Instructions Reference
+description: My notes of Instructions Reference from the LEG v8's Green Card
+aliases:
+  - LEG v8's ISA
+date: 2024-04-07
 draft: false
 tags:
-    - arm/legv8
-    - reference
-    - pl/asm
+  - arm/legv8
+  - reference
+  - pl/asm
 source: LEGv8 Reference Data Card ("Green Card")
-authors: 
-    - Patterson, D.
-    - Hennessy, J.
+authors:
+  - Patterson, D.
+  - Hennessy, J.
 ---
-
 ## Types
 | Type          |     Description      | Format                 | Example             |
 | ------------- | :------------------: | ---------------------- | ------------------- |

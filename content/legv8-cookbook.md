@@ -1,14 +1,17 @@
 ---
-title: "LEG v8's CookBook"
+title: LEG v8's CookBook
 draft: false
 tags:
-    - arm/legv8
-    - cookbook
-    - pl/asm
+  - arm/legv8
+  - cookbook
+  - pl/asm
 source: "Computer Organization and Design: The Hardware/Software Interface (ARM Ed.)"
-authors: 
-    - Patterson, D.
-    - Hennessy, J.
+authors:
+  - Patterson, D.
+  - Hennessy, J.
+aliases: 
+description: Personal Cookbook for my exam of Computer's Architecture
+date: 2025-04-07
 ---
 
 ## If/Else Branches

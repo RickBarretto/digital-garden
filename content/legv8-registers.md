@@ -2,13 +2,15 @@
 title: LEG v8's Registers Reference
 draft: false
 tags:
-    - arm/legv8
-    - reference
-    - pl/asm
+  - arm/legv8
+  - reference
+  - pl/asm
 source: LEGv8 Reference Data Card ("Green Card")
-authors: 
-    - Patterson, D.
-    - Hennessy, J.
+authors:
+  - Patterson, D.
+  - Hennessy, J.
+description: Notes of registers of LEG v8's Green Card
+date: 2025-04-07
 ---
 
 | Registers           | Usage                    | Should be Preserved |
