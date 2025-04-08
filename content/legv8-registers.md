@@ -11,6 +11,8 @@ authors:
   - Hennessy, J.
 description: Notes of registers of LEG v8's Green Card
 date: 2025-04-07
+aliases:
+  - LEG v8's Registers Reference
 ---
 
 | Registers           | Usage                    | Should be Preserved |

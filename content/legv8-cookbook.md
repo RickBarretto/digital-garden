@@ -9,7 +9,8 @@ source: "Computer Organization and Design: The Hardware/Software Interface (ARM 
 authors:
   - Patterson, D.
   - Hennessy, J.
-aliases: 
+aliases:
+  - LEG v8's Cookbook
 description: Personal Cookbook for my exam of Computer's Architecture
 date: 2025-04-07
 ---
