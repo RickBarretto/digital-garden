@@ -1,5 +1,5 @@
 ---
-title: LEG v8 Instructions
+title: LEG v8's Instructions Reference
 draft: false
 tags:
     - arm/legv8
