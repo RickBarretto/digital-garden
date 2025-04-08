@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Rick's Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to my personal Digital Garden.
+I've created this to share some notes with my friends from my personal private Zettelkasten.
+
+
+This project is based on Quartz, for more information 
+see their [documentation](https://quartz.jzhao.xyz).
