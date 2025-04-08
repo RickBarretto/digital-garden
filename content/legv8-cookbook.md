@@ -1,5 +1,5 @@
 ---
-title: LEG v8's CookBook
+title: "LEG v8's CookBook"
 draft: true
 tags:
     - arm/legv8
