@@ -1,6 +1,6 @@
 ---
 title: "LEG v8's CookBook"
-draft: true
+draft: false
 tags:
     - arm/legv8
     - cookbook
