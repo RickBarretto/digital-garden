@@ -83,6 +83,7 @@ br     lr     // 🧮 go to register
 	+ `.le` — `.gt`: Less or Equal & Greater Than 
 + Unsiged
 	+ `.lo` — `.hs`: Lower & Higher or Same
+	+ `.ls` — `.hi`: Lower or Same & Higher
 ### Comparison
 ```asm
 cbz  x1, Label // ❓ go to Label if x1 = 0

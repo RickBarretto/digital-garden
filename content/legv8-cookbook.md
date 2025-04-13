@@ -201,10 +201,10 @@ Basically, we decrement the `SP` and pushes the values to the stack, then we dec
 // x0: Memory Address
 // x19: Value
 	
-swap
+Swap:
 	ldxr  x9 , [x0]       // loads into x9
 	stxr  x19, x10, [x0]  // Checks if this is unlocked
-	cbnz  x10, again
+	cbnz  x10, Swap
 	add   x19, xzr, x9     // moves value to x19
 ```
 ### Spinlock
