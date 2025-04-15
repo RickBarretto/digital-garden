@@ -135,7 +135,7 @@ HEX  DEC  BIN
  2    2   0010
 ```
 
-Little Endian:
+Big Endian:
 
 ```
 0xABCDEF12
@@ -145,7 +145,7 @@ Little Endian:
 1010 1110 1100 1101 1110 1111 0001 0010
 ```
 
-Big Endian:
+Little Endian:
 
 ```
 0x12EFCDAB
@@ -336,7 +336,7 @@ loop:
 	rpt  x12, loop
 ```
 
-So, since this is a conditional branch this would be a **CB-Type**, see [[legv8-intructions#Types|LEG v8's Instruction Types]].
+So, since this is a conditional branch this would be a **CB-Type**, see [[LEGv8's Instruction Set#Types|LEG v8's Instruction Types]].
 
 ### 2.24.2
 
@@ -398,7 +398,7 @@ for (u64 i = 10; i => 0; i--) {
 ```
 
 ### 2.25.6
-`SUBIS` subtracts two numbers, the `I` means *Immediate-mode* (See [[legv8-intructions#Types|LEG v8's Instruction Types]]) since we are subtracting from a constant and the `S` means to enable flags from the *ALU*, so we can do certain comparisons, such as greater than (`B.GT`).
+`SUBIS` subtracts two numbers, the `I` means *Immediate-mode* (See [[LEGv8's Instruction Set#Types|LEG v8's Instruction Types]]) since we are subtracting from a constant and the `S` means to enable flags from the *ALU*, so we can do certain comparisons, such as greater than (`B.GT`).
 
 
 ## 2.25.7
