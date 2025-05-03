@@ -6,6 +6,7 @@ tags:
   - history
   - cs
   - status/🌱
+  - literature
 source: Modern Operating Systems
 authors:
   - Tanenbaum, A.
