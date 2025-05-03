@@ -1,18 +1,18 @@
 ---
-title: 
-draft: true
-tags: 
+title: Entity, Value Objects and Aggregates (DDD)
+draft: false
+tags:
   - software-engineer
   - domain-driven-design
   - status/🪴
   - literature
-source: Entidades, Value Objects e Agregados: conceitos fundamentais para representar domínio em código.
+source: "Entidades, Value Objects e Agregados: conceitos fundamentais para representar domínio em código."
 authors:
   - Júnior, Elemar Rodrigues
   - Fowler, M.
 aliases: 
-description: "Understand what is DDD, Entities, Value Objects, Aggregates and Roots"
-date: "2025-05-02"
+description: Understand what is DDD, Entities, Value Objects, Aggregates and Roots
+date: 2025-05-02
 ---
 > [!NOTE]
 > This is my personal resume of the **Elimar**'s live on **Entities, Value Objects and Aggregates** [^3].
